@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dancan Chibole
 - 👀 I’m interested in Java, Core Network(PS,CS), Network Monitoring via tools e.g SOC Smartcare Service,  
-- 🌱 I’m currently learning Java and working on Delivery of Smartcare Service to Safaricom PLC, Kenya. 
+- 🌱 I’m currently working on Delivery of Smartcare Service to Safaricom PLC, Kenya. 
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 Ping dancanchibole8@gmail.com to get a response. 
 
